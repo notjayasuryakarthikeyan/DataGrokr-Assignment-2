@@ -1,2 +1,2 @@
-# DataGrokr-Assignment-2
+# Country-Capital-API
 Creating a README and .gitignore files 
