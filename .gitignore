@@ -1,0 +1,11 @@
+# Ignore the build directory
+/dist
+
+# The file containing environment variables 
+.env
+
+# All files in the subdirectory test-runs/logs
+test_modules/
+
+# All CSV files anywhere in the repository
+*.csv
