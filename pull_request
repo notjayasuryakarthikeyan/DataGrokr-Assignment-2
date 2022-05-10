@@ -4,6 +4,9 @@ DESCRIPTION:
 Customers have been requesting the ability to get
 notified about product updates via their WhatsApp number.
 
+WHAT:
+Creating a optional button allow notification to whatsapp number also.
+
 WHY:
 This mode of notification is optional, but if specified, should cause
 notifications to go out both on their emails as well as WhatsApp numbers.
@@ -14,8 +17,5 @@ influenced by this feature.
 
 PR REVIEWERS:
 Tapas Das
-M.S. Dhoni
-Virat Kohli
-Rohit Sharma
-M.Rizwan
-David Warner
+Jayasurya
+Nireeksha
